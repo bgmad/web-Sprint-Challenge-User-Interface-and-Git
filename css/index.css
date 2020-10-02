@@ -75,7 +75,8 @@ p {
 
 header {
     height: 33%;
-    margin-bottom: 2.5%;
+    margin-bottom: 4%;
+    margin-top: 1%;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -93,7 +94,7 @@ header div {
 }
 
 header div nav {
-    width: 75%;
+    width: 80%;
     display: flex;
     justify-content: space-around;
 }
