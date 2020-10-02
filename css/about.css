@@ -47,7 +47,7 @@ table {
 	border-spacing: 0;
 }
 
-/* copy style of index */
+/* copied general style from index */
 
 * {
     box-sizing: border-box;
@@ -162,7 +162,7 @@ header .header-image {
 .bottom-text {
     padding-bottom: 4%;
 }
-/* footer style copy of index */
+/* footer. style copied form  index */
 
 footer {
     width: 100%;
