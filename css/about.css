@@ -152,6 +152,11 @@ header .header-image {
     border: 3px black solid;
 }
 
+.cell .text a:hover {
+    color: white;
+    background: black;
+}
+
 /* bottom text before footer */
 
 .bottom-text {
