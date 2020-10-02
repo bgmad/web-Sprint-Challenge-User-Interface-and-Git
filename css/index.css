@@ -103,8 +103,9 @@ header nav a {
     text-decoration: none;
 }
 
-header img {
+header .header-image {
     margin-top: 2%;
+    width: 100%;
 }
 
 /* end of hedder */

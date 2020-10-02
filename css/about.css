@@ -105,8 +105,36 @@ header nav a {
     text-decoration: none;
 }
 
-header img {
+header .header-image {
     margin-top: 2%;
+    width: 100%;
 }
 
-/* end of hedder */
+/* About text */
+
+.top-text {
+    width: 100%;
+    padding-bottom: 2%;
+    border-bottom: 1px black dashed;
+}
+
+/* footer style copy of index */
+
+footer {
+    width: 100%;
+    background: black;
+}
+
+footer nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;
+}
+
+footer nav a {
+    color: white;
+    text-decoration: none;
+}
